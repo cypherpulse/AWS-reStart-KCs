@@ -598,8 +598,8 @@
 
 #### 5. Which statement describes the service that Amazon Web Services (AWS) account teams provide?
 - [ ] They perform security tests on customer applications, such as penetration testing.
-- [ ] They guide customers through deployment and implementation.
-- [x] They provide customer support for deployed applications. ✅
+- [x] They guide customers through deployment and implementation. ✅
+- [ ] They provide customer support for deployed applications. 
 - [ ] They provide customers with compliance reports of their applications.
 
 ***
